@@ -79,9 +79,7 @@ I'm a DevOps Engineer with 2.8 years of experience in cloud infrastructure, auto
 - Cloud Engineer
 
 ## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
+- Email: bhumkarnikita008@gmail.com
 
 ---
 ⭐ Feel free to explore my repositories and connect with me!
