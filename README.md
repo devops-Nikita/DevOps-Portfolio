@@ -2,7 +2,7 @@
 
 Hi, I'm Nikita 👋
 
-I'm a DevOps Engineer with 2.8 years of experience in cloud infrastructure, automation, containerization, and CI/CD. I enjoy building scalable, reliable, and secure deployment pipelines while automating infrastructure using Infrastructure as Code.
+I'm a DevOps Engineer with 2.11 years of experience in cloud infrastructure, automation, containerization, and CI/CD. I enjoy building scalable, reliable, and secure deployment pipelines while automating infrastructure using Infrastructure as Code.
 
 ## 🚀 Skills
 
